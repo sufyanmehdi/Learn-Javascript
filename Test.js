@@ -29,9 +29,18 @@
 
 // console.log('temperature',temp)
 
-const gameName = new String("abcdefghijklmnopqrstuvwxyz")
+// const gameName = new String("abcdefghijklmnopqrstuvwxyz")
 
 // console.log(gameName.length);
-console.log(gameName.toUpperCase(7))
-console.log(gameName.indexOf("m"));
+// console.log(gameName.toUpperCase(7))
+// console.log(gameName.indexOf("m"));
 // console.log(gameName.indexOf(""));
+
+
+
+const myArr = [1,2,3,4,5,6,7,8,];
+const myheors = ["bheem","raj","ironman","shahrukhkhan"];
+
+const myArr2 = new Array(0,9,8,7,6,);
+
+console.log(myArr[1],myArr2[3],myheors[3])
